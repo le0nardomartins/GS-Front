@@ -43,7 +43,7 @@ Interface de usuário para o sistema de gerenciamento de iluminação inteligent
 1. Clone o repositório:
 
 ```shell
-git clone [url-do-repositorio]
+git clone (https://github.com/le0nardomartins/GS-Front)
 ```
 
 ```shell
